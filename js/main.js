@@ -17,6 +17,7 @@
   let score = 0;
   
 
+	
   function shuffle(arr) {
     //①配列arrの要素分から1を引くと、indexで最後の要素が選べる。
     //②iが0より大きい時まで繰り替えす
